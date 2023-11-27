@@ -1,0 +1,12 @@
+target/
+output/
+release/
+debug/
+*.log
+*~
+thumbs.db
+.DS_Store
+*.zip
+*.log
+*.pdf
+*.xls
